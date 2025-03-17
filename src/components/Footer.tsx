@@ -51,7 +51,9 @@ const Footer = () => {
           </div>
 
           <div>
-            <h3 className="font-semibold text-gray-900 mb-4">Product</h3>
+            <h3 className="font-semibold text-gray-900 mb-4">
+              Product standout
+            </h3>
             <ul className="space-y-3">
               <li>
                 <a
